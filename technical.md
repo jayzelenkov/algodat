@@ -92,7 +92,6 @@ your goal is to write beautiful code. modularize your code from the beginning an
 - add TODOs for error checks
 - use other classes / structs where appropriate
 - good variable names
--
 
 
 __KEEP TALKING ALL THE TIME__ The interviewer wants to hear how you approach the problem.
